@@ -65,4 +65,4 @@ Este repositório possui finalidade acadêmica e educacional, funcionando como r
 
 # Autor
 
-**Geraldo Luiz**
+**Geraldo Luiz e membros da celula**
